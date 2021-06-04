@@ -1,0 +1,8 @@
+FORMULAS OF INVERSE TRIGONOMETRY
+    sin^-1(x)+cos^-1(x) = tan^-1(x)+cot^-1(x) = sec^-1(x)+cosec^-1(x) = pi/2
+    tan^-1(x)+tan^-1(y) = tan^-1((x+y)/1-xy)\n\ntan^-1(x)-tan^-1(y) = tan^-1((x-y)/1+xy)
+    2tan^-1(x) = sin^-1(2x/1+x^2) = cos^-1(1-x^2/1+x^2) = tan^-1(2x/1-x^2)
+    sin^-1(x)+sin^-1(y) = sin^-1{x*sqrt(1-y^2)+y*sqrt(1-x^2)}
+    sin^-1(x)-sin^-1(y) = sin^-1{x*sqrt(1-y^2)-y*sqrt(1-x^2)}
+    cos^-1(x)+cos^-1(y) = cos^-1{xy-sqrt((1-x^2)(1-y^2))}
+    cos^-1(x)-cos^-1(y) = cos^-1{xy+sqrt((1-x^2)(1-y^2))}

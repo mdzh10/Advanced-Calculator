@@ -1,0 +1,4 @@
+FORMULAS OF COMBINATION
+    1. nCr = n!/r!(n-r)!
+    2. nCr = nCn-r
+    3. nCr + nCr-1 = n+1Cr

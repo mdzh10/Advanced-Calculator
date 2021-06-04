@@ -1,0 +1,7 @@
+   FORMULAS OF CO-ORDINATE GEOMETRY
+    straight line : 1. x/a + y/b=1 ,\n2. y=mx+c ,\n3. (y-y1)=m(x-x1) ,\n4. y-y1/y1-y2=x-x1/x1-x2
+    circle : 1. x^2+y^2=a^2 ,\n2. (x-h)^2+(y-k)^2=r^2 ,\n3. x^2+y^2+2gx+2fy+c=0
+    parabola : 1. y^2=4ax ,\n2. x^2=4ay
+    ellipse : x^2/a^2 + y^2/b^2=1  ;  e=sqrt{1-(b^2/a^2)}
+    hyperbola : x^2/a^2 - y^2/b^2=1  ;  e=sqrt{1+(b^2/a^2)}
+
